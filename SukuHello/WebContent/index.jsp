@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1 style="text-align: center;color: blue;">Hi... Tushar Do You want see yourself click bellow</h1>
-<h2 style="text-align: center;color: green;"><a href>Click here</a></h2>
+<h1 style="text-align: center;color: blue;">I am Sukumar here</h1>
+
 </body>
 </html>
